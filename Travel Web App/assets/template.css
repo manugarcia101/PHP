@@ -1,0 +1,12 @@
+.error {
+    color: green;
+}
+
+#envolvente {
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    left: 0%;
+    margin-left: 0%;
+    margin-top: 3%;
+    width: 50%;
+}
